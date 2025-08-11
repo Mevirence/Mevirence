@@ -3,7 +3,6 @@
 - 📍 Computer Science Student at Bicol University  
 - 🛠️ Exploring Cloud, DevOps, and Infrastructure  
 - 🎯 Pursuing AWS Solutions Architect path  
-- 🇸🇬 Aspiring to work in Singapore
 - 🤝 Open to collaborations & internships  
 - 🚀 Driven by curiosity
 
